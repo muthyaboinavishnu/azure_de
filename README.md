@@ -1,1 +1,1 @@
-# azure_de
+This repository contains my personal work og Python, SQL case studies and Azure Data Engineering stuff.
