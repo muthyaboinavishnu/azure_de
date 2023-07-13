@@ -30,3 +30,12 @@ def mid_3(fml):
     else:
         return 'even'
 print(mid_3(input()))
+
+# add string from mid of first string
+def miadd(k,l):
+    m = int(len(k))/2
+    k = k[:int(m)]+l+k[int(m):]
+    return k
+print(miadd('vishnu','vardhan'))
+
+
